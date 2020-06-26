@@ -8,3 +8,5 @@ Project link: https://www.theodinproject.com/courses/web-development-101/lessons
 2. Working between Git and Github
 3. Create branch, merge
 4. General workflow for beginner
+
+- Testing content from local machine 
